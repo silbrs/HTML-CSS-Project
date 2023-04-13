@@ -1,3 +1,3 @@
 # HTML-CSS-Project
 HTML, CSS Project
-(./design/project.png)
+![Design preview](./design/project.png)
