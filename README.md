@@ -1,3 +1,3 @@
 # HTML-CSS-Project
 HTML, CSS Project
-(./project.png)
+(HTML-CSS-Project/project.png)
